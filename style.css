@@ -1,0 +1,27 @@
+body{
+background-color: lightblue;
+
+}
+
+h1,h2{
+color: rgba(210, 7, 18, 0.79);
+font-size: 50px;
+}
+
+p{
+font-size: 200%;
+font-family: sans-serif;
+
+}
+
+.egg{
+  background-color:#e9d7af;
+  border-radius: 150px;
+
+}
+
+.chicken{
+  height: 300px;
+  background-color:rgba(162, 214, 132, 1);
+  border-radius: 50px;
+}
